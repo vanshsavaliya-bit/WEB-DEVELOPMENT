@@ -1,0 +1,1 @@
+alert("Student Profile Loaded");

@@ -1,0 +1,1 @@
+alert("Courses Page Loaded");

@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    background-color: #f2f6ff;
+    margin: 0;
+}
+
+h1 {
+    color: #1e3a8a;
+}
+
+h2 {
+    color: #2563eb;
+}
+
+form {
+    background-color: white;
+    width: 350px;
+    margin: 30px auto;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+}
+
+input {
+    padding: 8px;
+    margin: 5px;
+}
+
+input[type="submit"] {
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    cursor: pointer;
+}
+
+a {
+    color: #2563eb;
+    text-decoration: none;
+}
