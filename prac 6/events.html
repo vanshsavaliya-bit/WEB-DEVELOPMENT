@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Events</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Student Events</h1>
+
+        <div class="controls">
+            <input type="text" id="search" placeholder="Search event...">
+
+            <select id="filter">
+                <option value="All">All Categories</option>
+                <option value="Technical">Technical</option>
+                <option value="Cultural">Cultural</option>
+                <option value="Sports">Sports</option>
+            </select>
+
+            <select id="sort">
+                <option value="default">Sort By</option>
+                <option value="az">Name A-Z</option>
+                <option value="za">Name Z-A</option>
+            </select>
+        </div>
+
+        <p id="loading">Loading events...</p>
+        <p id="error"></p>
+
+        <div id="events"></div>
+
+        <div class="pagination">
+            <button id="prev">Previous</button>
+            <span id="page">Page 1</span>
+            <button id="next">Next</button>
+        </div>
+
+    </div>
+
+    <script src="script2.js"></script>
+</body>
+</html>

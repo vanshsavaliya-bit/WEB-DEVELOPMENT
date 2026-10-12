@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    background-color: #f2f6ff;
+    margin: 0;
+}
+
+h1 {
+    color: #1e3a8a;
+}
+
+h2 {
+    color: #2563eb;
+}
+
+a {
+    color: #2563eb;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    border: 1px solid #2563eb;
+}
+
+p {
+    font-size: 16px;
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Coding Competition",
+        "category": "Technical",
+        "date": "2026-10-10",
+        "description": "Programming competition for students."
+    },
+    {
+        "name": "Web Development Workshop",
+        "category": "Technical",
+        "date": "2026-10-12",
+        "description": "Learn HTML, CSS and JavaScript."
+    },
+    {
+        "name": "Hackathon",
+        "category": "Technical",
+        "date": "2026-10-15",
+        "description": "Build innovative software projects."
+    },
+    {
+        "name": "Tech Quiz",
+        "category": "Technical",
+        "date": "2026-10-18",
+        "description": "Quiz competition based on technology."
+    },
+    {
+        "name": "Robotics Exhibition",
+        "category": "Technical",
+        "date": "2026-10-20",
+        "description": "Student robotics project exhibition."
+    },
+    {
+        "name": "Dance Competition",
+        "category": "Cultural",
+        "date": "2026-10-22",
+        "description": "Inter-college dance competition."
+    },
+    {
+        "name": "Singing Competition",
+        "category": "Cultural",
+        "date": "2026-10-24",
+        "description": "Solo and group singing event."
+    },
+    {
+        "name": "Drama Event",
+        "category": "Cultural",
+        "date": "2026-10-26",
+        "description": "Student drama performance."
+    },
+    {
+        "name": "Photography Contest",
+        "category": "Cultural",
+        "date": "2026-10-28",
+        "description": "Photography competition for students."
+    },
+    {
+        "name": "Art Exhibition",
+        "category": "Cultural",
+        "date": "2026-10-30",
+        "description": "Display of student artwork."
+    },
+    {
+        "name": "Cricket Tournament",
+        "category": "Sports",
+        "date": "2026-11-02",
+        "description": "Inter-college cricket tournament."
+    },
+    {
+        "name": "Football Match",
+        "category": "Sports",
+        "date": "2026-11-04",
+        "description": "College football competition."
+    },
+    {
+        "name": "Basketball Tournament",
+        "category": "Sports",
+        "date": "2026-11-06",
+        "description": "Basketball tournament for students."
+    },
+    {
+        "name": "Chess Competition",
+        "category": "Sports",
+        "date": "2026-11-08",
+        "description": "Chess competition for students."
+    },
+    {
+        "name": "Badminton Tournament",
+        "category": "Sports",
+        "date": "2026-11-10",
+        "description": "College badminton tournament."
+    }
+]

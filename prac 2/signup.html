@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StudentHub - Sign Up</title>
+    <link rel="stylesheet" href="../CSS/signup.css">
+</head>
+<body>
+    <h1>StudentHub Registration</h1>
+
+    <form id="signupForm">
+        <label>Full Name</label>
+        <input type="text" id="name" placeholder="Enter your name">
+
+        <label>Email</label>
+        <input type="text" id="email" placeholder="Enter your email">
+
+        <label>Mobile Number</label>
+        <input type="text" id="mobile" placeholder="Enter 10-digit mobile number">
+
+        <label>Password</label>
+        <input type="password" id="password" placeholder="Minimum 8 characters">
+
+        <label>Confirm Password</label>
+        <input type="password" id="confirmPassword" placeholder="Re-enter password">
+
+        <label>Course</label>
+        <select id="course">
+            <option value="">Select Course</option>
+            <option value="Computer Engineering">Computer Engineering</option>
+            <option value="IT">Information Technology</option>
+            <option value="Other">Other</option>
+        </select>
+
+        <label>
+            <input type="checkbox" id="terms">
+            I agree to the terms and conditions
+        </label>
+
+        <p id="message"></p>
+        <button type="submit">Register</button>
+        <p>Already registered? <a href="login.html">Login</a></p>
+        <p><a href="index.html">Back to Home</a></p>
+    </form>
+
+    <script src="../JavaScript/signup.js"></script>
+</body>
+</html>

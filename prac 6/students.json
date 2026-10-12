@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Rahul Patel",
+        "course": "Computer Engineering",
+        "year": 2
+    },
+    {
+        "name": "Vansh Shah",
+        "course": "Information Technology",
+        "year": 1
+    },
+    {
+        "name": "Aarav Mehta",
+        "course": "Computer Science",
+        "year": 3
+    },
+    {
+        "name": "Priya Patel",
+        "course": "Computer Engineering",
+        "year": 2
+    },
+    {
+        "name": "Riya Shah",
+        "course": "Information Technology",
+        "year": 1
+    },
+    {
+        "name": "Krish Desai",
+        "course": "Mechanical Engineering",
+        "year": 4
+    },
+    {
+        "name": "Neha Joshi",
+        "course": "Computer Science",
+        "year": 3
+    },
+    {
+        "name": "Dev Patel",
+        "course": "Civil Engineering",
+        "year": 2
+    },
+    {
+        "name": "Yash Mehta",
+        "course": "Computer Engineering",
+        "year": 1
+    },
+    {
+        "name": "Ananya Shah",
+        "course": "Computer Science",
+        "year": 4
+    },
+    {
+        "name": "Harsh Patel",
+        "course": "Information Technology",
+        "year": 3
+    },
+    {
+        "name": "Mira Desai",
+        "course": "Computer Engineering",
+        "year": 2
+    },
+    {
+        "name": "Dhruv Joshi",
+        "course": "Mechanical Engineering",
+        "year": 1
+    },
+    {
+        "name": "Kavya Patel",
+        "course": "Civil Engineering",
+        "year": 3
+    },
+    {
+        "name": "Meet Shah",
+        "course": "Computer Science",
+        "year": 4
+    }
+]
