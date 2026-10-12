@@ -1,1 +1,0 @@
-alert("Today's Timetable is Ready!");

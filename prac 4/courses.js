@@ -1,1 +1,0 @@
-alert("Courses Page Loaded");

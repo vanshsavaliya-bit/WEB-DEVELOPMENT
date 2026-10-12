@@ -1,1 +1,0 @@
-alert("Attendance Details Loaded!");
