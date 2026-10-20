@@ -1,1 +1,0 @@
-alert("Student Profile Loaded");

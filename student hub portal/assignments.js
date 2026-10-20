@@ -1,1 +1,0 @@
-alert("Check your assignment deadlines!");
